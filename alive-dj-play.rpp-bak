@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.68/win64" 1685357513
+<REAPER_PROJECT 0.1 "6.68/win64" 1685357989
   <NOTES 0 2
   >
   RIPPLE 0
@@ -17,7 +17,7 @@
   VIDEO_CONFIG 0 0 256
   PANMODE 3
   CURSOR 0
-  ZOOM 3.04919800732817 0 0
+  ZOOM 3.26496548487052 0 0
   VZOOMEX 16 0
   USE_REC_CFG 0
   RECMODE 1
@@ -59,8 +59,8 @@
   GLOBAL_AUTO -1
   TEMPO 73 4 4
   PLAYRATE 1 1 0.25 4
-  SELECTION 223.99082227946178 331.16189957328731
-  SELECTION2 223.99082227946178 331.16189957328731
+  SELECTION 0 0
+  SELECTION2 0 0
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
@@ -531,14 +531,14 @@
     <ITEM
       POSITION 149.34203252936433
       SNAPOFFS 0
-      LENGTH 23.93228071472117
+      LENGTH 6.29004992727667
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
-      COLOR 33521919 R
-      SEL 1
+      COLOR 33488896 R
+      SEL 0
       IGUID {3CBDD643-4BFA-4C20-8A76-41A3C7BCEEAA}
       IID 2
       NAME "alive-drums-D major-77bpm-442hz.m4a"
@@ -547,6 +547,150 @@
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {B7EFB641-3B3E-4B9E-B1F1-30F0B87F9CDF}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in\alive-drums-D major-77bpm-442hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 155.632082456641
+      SNAPOFFS 0
+      LENGTH 2.72766239332901
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33521919 R
+      SEL 0
+      IGUID {42323770-21FF-4F44-AEC2-A86A3665154B}
+      IID 2
+      NAME "alive-drums-D major-77bpm-442hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 150.19892688102351
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EE8011A3-C4B7-464C-A751-2943931FB66C}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in\alive-drums-D major-77bpm-442hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 158.35974484997001
+      SNAPOFFS 0
+      LENGTH 3.117328449518
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33488896 R
+      SEL 0
+      IGUID {B429AA97-2B44-4D75-BAE2-E43E40481674}
+      IID 2
+      NAME "alive-drums-D major-77bpm-442hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 152.92658927435252
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FBB24935-A619-4D60-8179-36DD352AAAF5}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in\alive-drums-D major-77bpm-442hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 161.47707329948801
+      SNAPOFFS 0
+      LENGTH 2.68711329153899
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33521919 R
+      SEL 0
+      IGUID {EF94D604-22EF-45F6-B666-DE30A13C8348}
+      IID 2
+      NAME "alive-drums-D major-77bpm-442hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 156.04391772387052
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A0F80FAC-CE88-4C4F-BAFA-2DDEB78B486E}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in\alive-drums-D major-77bpm-442hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 164.164186591027
+      SNAPOFFS 0
+      LENGTH 3.19117892596398
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33488896 R
+      SEL 0
+      IGUID {C834F235-B3AD-4163-9743-AB11503CB364}
+      IID 2
+      NAME "alive-drums-D major-77bpm-442hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 158.73103101540951
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {11669054-4212-49CE-9749-60D778D6676E}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in\alive-drums-D major-77bpm-442hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 167.35536551699099
+      SNAPOFFS 0
+      LENGTH 2.685869220737
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33521919 R
+      SEL 0
+      IGUID {8FD8F728-AB0B-4461-8276-B1CC4819A178}
+      IID 2
+      NAME "alive-drums-D major-77bpm-442hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 161.9222099413735
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3787F177-057C-4038-BC44-B1563BC4334D}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in\alive-drums-D major-77bpm-442hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 170.04123473772799
+      SNAPOFFS 0
+      LENGTH 3.23307850635751
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33488896 R
+      SEL 0
+      IGUID {BA733123-460C-431E-973C-DFDB19ECECC9}
+      IID 2
+      NAME "alive-drums-D major-77bpm-442hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 164.6080791621105
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {58C68EA1-743E-4E05-AED0-200B23F1D02E}
       <SOURCE VIDEO
         FLIP 0 1
         FILE "audio-in\alive-drums-D major-77bpm-442hz.m4a"
@@ -562,7 +706,7 @@
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
       COLOR 16842751 R
-      SEL 0
+      SEL 1
       IGUID {82918322-A282-4B3B-AD09-E559BE899047}
       IID 2
       NAME "alive-drums-D major-77bpm-442hz.m4a"
